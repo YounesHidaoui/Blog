@@ -28,7 +28,7 @@
                     
                     <li aria-haspopup="true" class="mg_link" :class="{ open: isOpen[1] }">
                         <span class="wsmenu-click 123" @click="toggle(1)"><i class="wsmenu-arrow"></i></span>
-                        <NuxtLink to="/services" class="h-link">Last Posts <span class="wsarrow"></span></NuxtLink>
+                        <NuxtLink to="#" class="h-link">Last Posts <span class="wsarrow"></span></NuxtLink>
                         <div class="wsmegamenu w-75 clearfix">
                             <div class="container">
                                 <div class="row">
