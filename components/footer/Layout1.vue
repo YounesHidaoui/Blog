@@ -6,7 +6,7 @@
                 <!-- FOOTER LOGO -->
                 <div class="col-xl-3">
                     <div class="footer-info">
-                        <img class="footer-logo" src="/assets/images/logo.png" alt="footer-logo" />
+                       <h2> Journal Of Justice</h2>
                     </div>
                 </div>
                 <!-- FOOTER LINKS -->
@@ -21,7 +21,7 @@
                             </li>
                           
                             <li>
-                                <p><NuxtLink to="/reviews">Customers</NuxtLink></p>
+                                <p><NuxtLink to="#">Customers</NuxtLink></p>
                             </li>
                             <li>
                                 <p><a href="#">Community</a></p>
@@ -39,11 +39,11 @@
                         <ul class="foo-links clearfix">
                             
                             <li>
-                                <p><NuxtLink to="/download">What's New</NuxtLink></p>
+                                <p><NuxtLink to="#">What's New</NuxtLink></p>
                             </li>
                            
                             <li>
-                                <p><NuxtLink to="/help-center">Help Center</NuxtLink></p>
+                                <p><NuxtLink to="#">Help Center</NuxtLink></p>
                             </li>
                         </ul>
                     </div>
@@ -57,13 +57,13 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/terms">Terms of Use</NuxtLink></p>
+                                <p><NuxtLink to="#">Terms of Use</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/privacy">Privacy Policy</NuxtLink></p>
+                                <p><NuxtLink to="#">Privacy Policy</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/cookies">Cookie Policy</NuxtLink></p>
+                                <p><NuxtLink to="#">Cookie Policy</NuxtLink></p>
                             </li>
                             
                         </ul>

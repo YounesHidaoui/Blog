@@ -1,6 +1,6 @@
 <template>
     <span :class="['go-to-top', { show: showGoToTop }]" @click="scrollToTop">
-        <img class="img-fluid" src="/assets/images/logo.png" alt="brand-logo" />
+        <!-- <img class="img-fluid" src="/assets/images/logo.png" alt="brand-logo" /> -->
     </span>
 </template>
 <script>

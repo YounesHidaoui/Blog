@@ -7,7 +7,7 @@
     </span>
 </template>
 <script>
-export default {
+export default {    
     methods: {
         toggleDarkMode() {
             // toggle body class "dark-mode"

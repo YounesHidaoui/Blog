@@ -183,7 +183,7 @@
                         <div class="post-author py-100 x-border">
                             <!-- Avatar -->
                             <div class="post-author-avatar">
-                                <img src="/assets/images/post-author.jpg" alt="author-avatar" />
+                                <!-- <img src="/assets/images/post-author.jpg" alt="author-avatar" /> -->
                             </div>
                             <!-- Text -->
                             <div class="post-author-txt">
