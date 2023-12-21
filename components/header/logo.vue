@@ -1,7 +1,9 @@
 <template>
     <div class="wsmobileheader clearfix">
         <span class="smllogo">
-            <h2> JOurnal of JUSTICE</h2>
+             <NuxtLink to="/">
+                    <h2 class="text-black pointer" > Journal Of Justice</h2>
+                </NuxtLink>
         </span>
 
         <a id="wsnavtoggle" class="wsanimated-arrow" @click="toggleMobileMenu">

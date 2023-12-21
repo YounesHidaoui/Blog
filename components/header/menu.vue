@@ -3,12 +3,12 @@
         <div class="wsmainwp clearfix">
             <!-- HEADER BLACK LOGO -->
             <div class="desktoplogo">
-                <NuxtLink to="/" class="logo-black"> <h2> Journal Of Justice </h2></NuxtLink>
+                <NuxtLink to="/" class="logo-black"> <h2 class="logo-black"> Journal Of Justice </h2></NuxtLink>
             </div>
             <!-- HEADER WHITE LOGO -->
             <div class="desktoplogo">
-                <NuxtLink to="/" class="logo-white">
-                    <h2 class="text-black"> Journal Of Justice</h2>
+                <NuxtLink to="/" class="logo-white pointer">
+                    <h2 class="text-black logo-white pointer" > Journal Of Justice</h2>
                 </NuxtLink>
             </div>
             <!-- MAIN MENU -->      
