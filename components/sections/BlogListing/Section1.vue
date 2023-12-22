@@ -1,5 +1,11 @@
 <template>
     <section id="blog-page" class="pb-60 inner-page-hero blog-page-section">
+
+        <div class="container" id="Ads">
+            <ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-6008990104642794" data-adsbygoogle-status="done" style="display: block; margin: auto; background-color: transparent; height: 250px;" data-ad-status="filled">
+<div id="aswift_3_host" tabindex="0" title="Advertisement" aria-label="Advertisement" style="border: none; height: 250px; width: 250px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"><iframe id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0;width:250px;height:250px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="250" height="250" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6008990104642794&amp;h=300&amp;slotname=9093952817&amp;w=300&amp;rafmt=11&amp;format=250x250&amp;url=https://yo.fan/&amp;host=ca-host-pub-8726151893822553&amp;" data-google-container-id="a!2" data-load-complete="true"></iframe></div></ins>
+        </div>
+
         <div class="container">
             <!-- WIDE BLOG POST -->
             <div class="blog-post wide-post wow fadeInUp">
